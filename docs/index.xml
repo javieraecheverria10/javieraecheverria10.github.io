@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>BONUS</title>
+      <link>https://javieraecheverria10.github.io/docs/bonus/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javieraecheverria10.github.io/docs/bonus/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://javieraecheverria10.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
@@ -49,10 +58,19 @@
     
     <item>
       <title>Entrega 2</title>
-      <link>https://javieraecheverria10.github.io/docs/mecanizado-cnc/</link>
+      <link>https://javieraecheverria10.github.io/docs/entrega-2/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://javieraecheverria10.github.io/docs/mecanizado-cnc/</guid>
+      <guid>https://javieraecheverria10.github.io/docs/entrega-2/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Entrega 3</title>
+      <link>https://javieraecheverria10.github.io/docs/entrega-3/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://javieraecheverria10.github.io/docs/entrega-3/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
